@@ -1217,6 +1217,7 @@ ul,li{
 .main-slider{
 	position:relative;
 	width:100%;
+	height:75vh;
 	overflow:hidden;	
 }
 
@@ -1303,7 +1304,7 @@ ul,li{
 }
 
 .main-slider .tp-bullets{
-	display:none;	
+	display:none;
 }
 
 .main-slider .tp-bullets.preview4 .bullet{
