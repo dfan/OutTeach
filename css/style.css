@@ -3365,13 +3365,11 @@ li.col-xs-12:before{
 .team-section .team-member .image img{
 	position:relative;
 	display:block;
-	width:100%;	
 }
 
 .member-details .team-member .image img{
 	position:relative;
 	display:block;
-	width:auto;	
 }
 
 .team-section .team-member .member-info{
