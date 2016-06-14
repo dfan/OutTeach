@@ -1215,10 +1215,10 @@ ul,li{
 ***/
 
 .main-slider{
-	position:relative;
-	width:100%;
-	height:75vh;
-	overflow:hidden;	
+    position:relative;
+    width:100%;
+    height:75vh;
+    overflow:hidden;    
 }
 
 .main-slider .circular-drop{
@@ -1304,7 +1304,7 @@ ul,li{
 }
 
 .main-slider .tp-bullets{
-	display:none;
+	display:none;	
 }
 
 .main-slider .tp-bullets.preview4 .bullet{
@@ -3309,11 +3309,12 @@ li.col-xs-12:before{
     padding-left: 30px;
     position: relative;
 	font-size:16px;
+	color:#303030;
 }
 
 .styled-list-two li::before {
     color: #6ac610;
-    content: "\f105";
+    content: "\f00c";
     font-family: "FontAwesome";
     font-size: 20px;
     left: 0;
@@ -3365,11 +3366,13 @@ li.col-xs-12:before{
 .team-section .team-member .image img{
 	position:relative;
 	display:block;
+	width:100%;	
 }
 
 .member-details .team-member .image img{
 	position:relative;
 	display:block;
+	width:auto;	
 }
 
 .team-section .team-member .member-info{
